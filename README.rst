@@ -50,7 +50,8 @@ Documentation
 =============
 
 A detailed documentation of each function provided by *pymltk* is
-available on `readthedocs.org <http://pymltk.readthedocs.io/en/latest/?>`_.
+available as docstrings in the source code of each function and 
+on `readthedocs.org <http://pymltk.readthedocs.io/en/latest/?>`_.
 
 
 Contribution
