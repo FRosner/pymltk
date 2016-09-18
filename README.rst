@@ -1,3 +1,13 @@
+.. image:: https://coveralls.io/repos/github/bkomboz/pymltk/badge.svg?branch=master
+     :target: https://coveralls.io/github/bkomboz/pymltk?branch=master
+     :alt: Code Coverage Status
+.. image:: https://requires.io/github/bkomboz/pymltk/requirements.svg?branch=master
+     :target: https://requires.io/github/bkomboz/pymltk/requirements/?branch=master
+     :alt: Requirements Status
+.. image:: https://readthedocs.org/projects/pymltk/badge/?version=latest
+     :target: http://pymltk.readthedocs.io/en/latest/?badge=latest
+     :alt: Documentation Status
+
 ======
 pymltk
 ======
@@ -39,19 +49,15 @@ Function Overview
 Installation
 ============
 
-A stable version of *pymlkt* is available on PyPI and can be installed via pip:
-
-    pip install pymlk
-
-The development version is available in the master branch of this respository.
+Currently only the development version in this repository is available. In the future,
+a stable release on pypi is planned.
 
 
 Documentation
 =============
 
 A detailed documentation of each function provided by *pymltk* is
-available as docstrings in the source code of each function and 
-on `readthedocs.org <http://pymltk.readthedocs.io/en/latest/?>`_.
+available on `readthedocs.org <http://pymltk.readthedocs.io/en/latest/?>`_.
 
 
 Contribution
