@@ -15,10 +15,11 @@ functions which implement common operations done by data
 scientists during their daily work*.
 
 All functions of this package ...
-- ... do one thing and (try to) do it well.
-- ... operate on pandas as well as dask dataframes.
-- ... are fully tested and documented.
-- ... offer a clean and consistent UI.
+
+* ... do one thing and (try to) do it well.
+* ... operate on pandas as well as dask dataframes.
+* ... are fully tested and documented.
+* ... offer a clean and consistent UI.
 
 This package was inspired by `mlr <https://github.com/mlr-org/mlr>`_,
 a R package which offers similar functionality with respect to data
@@ -28,17 +29,17 @@ a R package which offers similar functionality with respect to data
 Function Overview
 =================
 
-- *parse_columns*: Parsing features with a specified dtype.
-- *parse_missings*: Parsing specified values as missing values.
-- *merge_levels*: Merging levels/values of a feature depending on several criteria.
-- *impute_missings*: Imputing missing values based on several strategies.
-- *remove_constants*: Removing features with no/low variability.
+* *parse_columns*: Parsing features with a specified dtype.
+* *parse_missings*: Parsing specified values as missing values.
+* *merge_levels*: Merging levels/values of a feature depending on several criteria.
+* *impute_missings*: Imputing missing values based on several strategies.
+* *remove_constants*: Removing features with no/low variability.
 
 
 Installation
 ============
 
-A stable version of *pymlkt* is available on PyPI and can be installed via pip:::
+A stable version of *pymlkt* is available on PyPI and can be installed via pip:
 
     pip install pymlk
 
@@ -48,8 +49,8 @@ The development version is available in the master branch of this respository.
 Documentation
 =============
 
-A detailed documentation for each function provided by *pymltk* is via
-`read-the-docs.com`_.
+A detailed documentation of each function provided by *pymltk* is
+available on `readthedocs.org <http://pymltk.readthedocs.io/en/latest/?>`_.
 
 
 Contribution
