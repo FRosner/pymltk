@@ -1,12 +1,15 @@
+.. image:: https://travis-ci.org/bkomboz/pymltk.svg?branch=master
+    :target: https://travis-ci.org/bkomboz/pymltk
+    :alt: TravisCI Status
 .. image:: https://coveralls.io/repos/github/bkomboz/pymltk/badge.svg?branch=master
-     :target: https://coveralls.io/github/bkomboz/pymltk?branch=master
-     :alt: Code Coverage Status
+    :target: https://coveralls.io/github/bkomboz/pymltk?branch=master
+    :alt: Code Coverage Status
 .. image:: https://requires.io/github/bkomboz/pymltk/requirements.svg?branch=master
-     :target: https://requires.io/github/bkomboz/pymltk/requirements/?branch=master
-     :alt: Requirements Status
+    :target: https://requires.io/github/bkomboz/pymltk/requirements/?branch=master
+    :alt: Requirements Status
 .. image:: https://readthedocs.org/projects/pymltk/badge/?version=latest
-     :target: http://pymltk.readthedocs.io/en/latest/?badge=latest
-     :alt: Documentation Status
+    :target: http://pymltk.readthedocs.io/en/latest/?badge=latest
+    :alt: Documentation Status
 
 ======
 pymltk
