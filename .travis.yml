@@ -16,11 +16,11 @@ before_install:
   - sudo ln -s /run/shm /dev/shm
 install:
   - conda install --yes --file requirements.txt 
-  - pip install coveralls
+  - pip install python-coveralls
   - python setup.py install 
 
 script: 
-  - python setup.py test --addopts "tests --cov pyscaffold --cov-report term-missing" --verbose
+  - python setup.py test --addopts "tests --cov coveralls --cov-report term-missing" --verbose
 
 after_success:
   - coveralls --config_file .coveragerc
