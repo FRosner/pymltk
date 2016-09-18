@@ -23,4 +23,4 @@ script:
   - python setup.py test --addopts "tests --cov pyscaffold --cov-report term-missing" --verbose
 
 after_success:
-  coveralls --config_file .coveragrc
+  - coveralls --config_file .coveragerc
