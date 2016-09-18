@@ -16,7 +16,7 @@ before_install:
   - sudo ln -s /run/shm /dev/shm
 install:
   - conda install --yes --file requirements.txt 
-  - conda install --yes coverall
+  - conda install --yes coveralls
   - python setup.py install 
 
 script: 
