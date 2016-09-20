@@ -52,8 +52,11 @@ Function Overview
 Installation
 ============
 
-Currently only the development version in this repository is available. In the future,
-a stable release on pypi is planned.
+The latest stable release of *pymltk* is available on pypi and can be installed as usual via
+
+    pip install pymltk
+
+In addition, the development version is available in this git repository.
 
 
 Documentation
