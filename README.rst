@@ -35,7 +35,7 @@ All functions of this package ...
 * ... offer a clean and consistent UI.
 
 This package was inspired by `mlr <https://github.com/mlr-org/mlr>`_,
-a R package which offers similar functionality with respect to data
+an R package which offers similar functionality with respect to data
 (pre)processing (but in addition offers *a lot* more).
 
 
